@@ -20,7 +20,8 @@ function TeamChannelPreview({channel, type}) {
       name={members[0]?.user?.fullName}
       size={24}
       />
-      <p>{members[0]?.user.fullName}</p>
+      <p>{members[0]?.user.fullName} </p>
+      <p>tte</p>
     </div>
     )
 }
